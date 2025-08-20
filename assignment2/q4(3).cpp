@@ -28,7 +28,7 @@ int main()
 {
 	char s1[100];
 	cout << "Enter string: " << endl;
-	cin >> s1;     //cin.getline(s1,100) 
+	cin >> s1;    
 	 
 	deletevowel(s1);
 
